@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">coffee-shop-android</string>
+    <string name="choice_your_nfavorite_coffee">Choice your\nFavorite Coffee</string>
+    <string name="get_started">Get Started</string>
 </resources>
